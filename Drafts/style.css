@@ -1,0 +1,49 @@
+body {
+  color: #98FB98;
+}
+
+h1 {
+  color:#6610f2;
+  font-size: 30px;
+}
+
+h2 {
+  color: #6610f2;
+  font-size: 12px;
+}
+
+.purple {
+  color: purple;
+}
+
+#red {
+  color: red;
+}
+
+#big-font {
+  font-size: 40px;
+}
+
+#bold-font {
+  font-weight: bold;
+}
+
+.back-black {
+  background-color: #000;
+}
+
+.small-font {
+  font-size: 10px;
+}
+
+.box {
+  height: 600px;
+  padding: 5px;
+  color: #fff;
+  background: #ffe4b5;
+  margin:10px;
+}
+
+.margin-top-80 {
+  margin-top: 80px;
+}
